@@ -1,0 +1,23 @@
+{
+  "title": "RPTOR-PostGWAS-rs12950541: código de anotación funcional post-GWAS del locus RPTOR",
+  "description": "Código y materiales de análisis del preprint bioRxiv 10.64898/2026.04.26.720864. Anotación funcional post-GWAS de rs12950541 en el locus RPTOR mediante Pipeline PostGWAS Gallardo v1.",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Gallardo-Blanco, Hugo Leonid",
+      "orcid": "0000-0002-7816-4967",
+      "affiliation": "Universidad Autónoma de Nuevo León, Facultad de Medicina"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.64898/2026.04.26.720864",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ],
+  "keywords": ["post-GWAS", "RPTOR", "rs12950541", "type 2 diabetes", "functional annotation", "mTORC1"]
+}
