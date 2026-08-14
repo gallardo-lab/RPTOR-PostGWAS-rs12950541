@@ -115,6 +115,7 @@ This is part of a systematic series applying Pipeline PostGWAS Gallardo v1 to T2
 - **ANKRD55** (rs459193) — [GitHub](https://github.com/hugoleonid2008-ops) | bioRxiv (forthcoming)
 - **TCF7L2** (rs7903146) — forthcoming
 - **Cross-loci comparative** (10 loci) — forthcoming
+- Is supplement to → DOI → 10.64898/2026.04.26.720864
 
 ## License
 
